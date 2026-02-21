@@ -7,11 +7,3 @@
 </p>
 
 ---
-
-<h2 align="center">🏗️ Project Architecture</h2>
-
-<p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/Project_Architecture_lFrLmvz.png"
-       alt="Project Architecture Diagram"
-       width="900"/>
-</p>
